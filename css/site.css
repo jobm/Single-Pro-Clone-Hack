@@ -14,3 +14,20 @@
 .top-space{
   padding-top: 1.5%;
 }
+
+.logo{
+  padding-left: 6%;
+}
+.nav-bar{
+  font-style: "Nunito";
+  font-size: 18px;
+  color:white;
+}
+body{
+  background: url(http://7-themes.com/data_images/out/17/6826534-hd-background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  filter: blur(0.5%);
+}
