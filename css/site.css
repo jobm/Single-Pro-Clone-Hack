@@ -8,6 +8,7 @@
   display: inline;
   margin-right: 4%;
 }
+
 .lefty{
   margin-left:20%;
 }
@@ -24,10 +25,29 @@
   color:white;
 }
 body{
-  background: url(http://7-themes.com/data_images/out/17/6826534-hd-background.jpg) no-repeat center center fixed;
+  background: url(http://static.tumblr.com/9c5d2c99590d399955b720f4f4d4f0bd/412wpbg/by0nkpdjj/tumblr_static_5m0ztq03gnocg8cckowg408kk.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  filter: blur(0.5%);
+  -o-filter:brightness(10%);
+}
+.centy{
+  position: relative;
+  text-align: center;
+  left: 22%;
+  color: white;
+}
+.logo-color{
+  color:green;
+  font-size: 26px;
+}
+.first-part{
+    font-size: 26px;
+}
+.bg-btn{
+  width: 50%;
+  height: 60%;
+  font-size: 36px;
+  color: white;
 }
